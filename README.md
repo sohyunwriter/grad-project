@@ -24,6 +24,8 @@ https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized
 ![논문 RNN 모델](https://user-images.githubusercontent.com/44013936/80837053-03027400-8c31-11ea-882c-dc12ded03942.PNG)   
 
 ## 4. Web Application
-![예측모델](https://user-images.githubusercontent.com/44013936/80837045-fed65680-8c30-11ea-8701-9b73a34d2955.PNG)   
+-새로운 이미지를 업로드해서 처리할 수 있음   
+![NEW PREDICT](https://user-images.githubusercontent.com/44013936/80838479-16630e80-8c34-11ea-881c-7240e4f4ba0f.png)   
 
-![캡처 RmxRmxmrmx](https://user-images.githubusercontent.com/44013936/80837051-0138b080-8c31-11ea-93ee-b542537ed8d4.PNG)   
+-해당 이미지 예측 결과를 보여줌   
+![예측모델](https://user-images.githubusercontent.com/44013936/80837045-fed65680-8c30-11ea-8701-9b73a34d2955.PNG)   
